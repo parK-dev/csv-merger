@@ -1,6 +1,6 @@
 # csv-merger
 
-`csv-merger` is a command line tool written in rust for merging multiple CSV files into one. It uses the `csv` crate for reading and writing CSV files.
+`csv-merger` is a command line tool written in Rust for merging multiple CSV files into one. It uses the `csv` crate for reading and writing CSV files.
 
 ## Usage
 
