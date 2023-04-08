@@ -1,0 +1,8 @@
+[package]
+name = "csv-merger"
+version = "0.1.0"
+authors = ["park-dev <kirk.paradis@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+csv = "1.2.1"
